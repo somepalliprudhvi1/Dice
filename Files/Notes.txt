@@ -1,0 +1,1 @@
+start "" /min "C:\Users\user_name\AppData\Local\UiPath\app-18.2.2\UiRobot.exe" /file:"path_of_xaml_file"
